@@ -1,0 +1,19 @@
+.pink-white{
+    background: rgb(223, 174, 182);
+    font-family: 'Verdana','DejaVu Sans', sans-serif;
+}
+
+.big-text{
+    font-size: 24px;
+}
+
+#unique{
+    color: blue;
+    font-size: 36px;
+}
+
+#half-unique{
+    background: rgb(133, 224, 133);
+    font-weight: bold;
+}
+
