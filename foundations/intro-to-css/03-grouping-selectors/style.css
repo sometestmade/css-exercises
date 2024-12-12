@@ -1,0 +1,14 @@
+.font-style{
+    font-family: Helvetica,'Times New Roman', Times, sans-serif;
+    font-size: 28px;
+}
+
+.black-one{
+    background: black;
+    color: white;
+}
+
+.yellow-one{
+    background: yellow;
+    color: black;
+}
